@@ -1,0 +1,15 @@
+C:\Users\Hilal\source\repos\Bilgisayar_Grafikleri_Ödev_1\Bilgisayar_Grafikleri_Ödev_1\bin\Debug\Bilgisayar_Grafikleri_Ödev_1.exe.config
+C:\Users\Hilal\source\repos\Bilgisayar_Grafikleri_Ödev_1\Bilgisayar_Grafikleri_Ödev_1\bin\Debug\Bilgisayar_Grafikleri_Ödev_1.exe
+C:\Users\Hilal\source\repos\Bilgisayar_Grafikleri_Ödev_1\Bilgisayar_Grafikleri_Ödev_1\bin\Debug\Bilgisayar_Grafikleri_Ödev_1.pdb
+C:\Users\Hilal\source\repos\Bilgisayar_Grafikleri_Ödev_1\Bilgisayar_Grafikleri_Ödev_1\bin\Debug\Tao.OpenGl.dll
+C:\Users\Hilal\source\repos\Bilgisayar_Grafikleri_Ödev_1\Bilgisayar_Grafikleri_Ödev_1\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\Hilal\source\repos\Bilgisayar_Grafikleri_Ödev_1\Bilgisayar_Grafikleri_Ödev_1\bin\Debug\Tao.OpenGl.xml
+C:\Users\Hilal\source\repos\Bilgisayar_Grafikleri_Ödev_1\Bilgisayar_Grafikleri_Ödev_1\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\Hilal\source\repos\Bilgisayar_Grafikleri_Ödev_1\Bilgisayar_Grafikleri_Ödev_1\obj\Debug\Bilgisayar_Grafikleri_Ödev_1.csprojAssemblyReference.cache
+C:\Users\Hilal\source\repos\Bilgisayar_Grafikleri_Ödev_1\Bilgisayar_Grafikleri_Ödev_1\obj\Debug\Bilgisayar_Grafikleri_Ödev_1.Form1.resources
+C:\Users\Hilal\source\repos\Bilgisayar_Grafikleri_Ödev_1\Bilgisayar_Grafikleri_Ödev_1\obj\Debug\Bilgisayar_Grafikleri_Ödev_1.Properties.Resources.resources
+C:\Users\Hilal\source\repos\Bilgisayar_Grafikleri_Ödev_1\Bilgisayar_Grafikleri_Ödev_1\obj\Debug\Bilgisayar_Grafikleri_Ödev_1.csproj.GenerateResource.cache
+C:\Users\Hilal\source\repos\Bilgisayar_Grafikleri_Ödev_1\Bilgisayar_Grafikleri_Ödev_1\obj\Debug\Bilgisayar_Grafikleri_Ödev_1.csproj.CoreCompileInputs.cache
+C:\Users\Hilal\source\repos\Bilgisayar_Grafikleri_Ödev_1\Bilgisayar_Grafikleri_Ödev_1\obj\Debug\Bilgisayar_Grafikleri_Ödev_1.csproj.CopyComplete
+C:\Users\Hilal\source\repos\Bilgisayar_Grafikleri_Ödev_1\Bilgisayar_Grafikleri_Ödev_1\obj\Debug\Bilgisayar_Grafikleri_Ödev_1.exe
+C:\Users\Hilal\source\repos\Bilgisayar_Grafikleri_Ödev_1\Bilgisayar_Grafikleri_Ödev_1\obj\Debug\Bilgisayar_Grafikleri_Ödev_1.pdb
